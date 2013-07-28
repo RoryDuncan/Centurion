@@ -1,6 +1,12 @@
-Centurion
+Centurion Light
 =========
 
+A fork of Centurion with a lighter color scheme.
+It also makes themes such as Slush and Poppies look natural in Sublime Text, with this theme.
+I personally use it with Laravel.
+
+Centurion
+=========
 A clean cut UI theme for Sublime Text 2 bastardised from the source code of [Soda](https://github.com/buymeasoda/soda-theme/).
 
 Centurion was made out of a want for less UI and more code. It's so minimal you can barely see it. 

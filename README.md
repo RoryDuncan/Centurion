@@ -5,38 +5,6 @@ A fork of Centurion with a lighter color scheme.
 It also makes themes such as Slush and Poppies look natural in Sublime Text, with this theme.
 I personally use it with Laravel.
 
-Centurion
-=========
-A clean cut UI theme for Sublime Text 2 bastardised from the source code of [Soda](https://github.com/buymeasoda/soda-theme/).
+![Centurion Light theme](https://raw.github.com/RoryDuncan/Centurion/master/CenturionLight.png)
 
-Centurion was made out of a want for less UI and more code. It's so minimal you can barely see it. 
-No gradients, no 1px edges and not a thousand different icon sprites. Just color, shape and 14 [icons](http://www.glyphicons.com/).  
-I think it works best with the [Tomorrow Night - Eighties](https://github.com/chriskempson/tomorrow-theme) theme.
-
-![Centurion theme](https://raw.github.com/allanhortle/Centurion/master/Centurion.png)  
-
-Installation
-------------------------------------------------------------------------
-###Package Control
-
-Just install it and make sure to update your `Settings - User` file with:
-
-    "theme": "Centurion.sublime-theme"
-    
-
-###Manual
-
-Clone it into your packages directory. These are OSX paths because I'm lazy like that. For Windows/Other just substitute your paths like a boss.
-
-    cd ~/Library/Application Support/Sublime Text 2/Packages
-
-    git clone git://github.com/allanhortle/Centurion.git 'Theme - Centurion'
-       
-Make sure you have the `Theme - Centurion` at the end of the command so it is placed in the correct folder.  
-Unless of course you feel like experiencing the wrath of none icons. 
-
-Back to Sublime Text, press `super+,` to access your `Settings - User` and insert: 
-        
-        "theme": "Centurion.sublime-theme"
-
-If it looks like crap make sure to restart Sublime before crying. 
+More information can be found at [Centurion's Repository](https://github.com/allanhortle/Centurion)
